@@ -10,7 +10,7 @@
 - Plotted regression line (for simple regression)
 - Interpreted the effect of features on predictions using model coefficients
 
-### 📌 Tools Used:
+### Tools Used:
 - Python
 - Pandas
 - Matplotlib
